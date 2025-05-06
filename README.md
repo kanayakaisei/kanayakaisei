@@ -1,4 +1,4 @@
 ## Hello 👋
 
-<h1>Skills</h1>
+<h3>Skills</h3>
 ![](https://skillicons.dev/icons?i=html,css,js,react,php)
