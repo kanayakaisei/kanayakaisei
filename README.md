@@ -2,4 +2,4 @@
 
 ### Skills
 
-![Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,next,php)
+![Skills](https://skillicons.dev/icons?i=html,css,scss,js,astro,react,next,php)
