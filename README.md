@@ -6,4 +6,4 @@
 
 ### Training
 
-![Training](https://skillicons.dev/icons?i=react,next,astro,php)
+![Training](https://skillicons.dev/icons?i=react,next,astro,php,docar)
