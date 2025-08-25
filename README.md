@@ -6,4 +6,4 @@
 
 ### Training
 
-![Training](https://skillicons.dev/icons?i=astro,php,lalaver,docker,)
+![Training](https://skillicons.dev/icons?i=astro,php,laravel,docker,)
