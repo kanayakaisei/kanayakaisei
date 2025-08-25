@@ -2,8 +2,8 @@
 
 ### Skills
 
-![Skills](https://skillicons.dev/icons?i=html,css,scss,js,typescript,figma)
+![Skills](https://skillicons.dev/icons?i=html,css,scss,js,typescript,react,next,figma)
 
 ### Training
 
-![Training](https://skillicons.dev/icons?i=astro,react,next,php,docker,Podman)
+![Training](https://skillicons.dev/icons?i=astro,php,lalaver,docker,)
